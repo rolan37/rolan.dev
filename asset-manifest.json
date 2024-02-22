@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rolan.dev/static/css/main.e119cb46.css",
+    "main.js": "/rolan.dev/static/js/main.705961bc.js",
+    "static/js/453.a9ae78e1.chunk.js": "/rolan.dev/static/js/453.a9ae78e1.chunk.js",
+    "static/media/espressif.png": "/rolan.dev/static/media/espressif.ab2551614cf69fee315e.png",
+    "static/media/instagram.png": "/rolan.dev/static/media/instagram.ffb79ce6296fc6609f29.png",
+    "static/media/react.png": "/rolan.dev/static/media/react.aec6a0cbe3c0cfdb1ef6.png",
+    "static/media/node.png": "/rolan.dev/static/media/node.8c75b5f57914a1169a6b.png",
+    "static/media/arduino.png": "/rolan.dev/static/media/arduino.722113c30d0502716441.png",
+    "static/media/logo.svg": "/rolan.dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rolan.dev/index.html",
+    "main.e119cb46.css.map": "/rolan.dev/static/css/main.e119cb46.css.map",
+    "main.705961bc.js.map": "/rolan.dev/static/js/main.705961bc.js.map",
+    "453.a9ae78e1.chunk.js.map": "/rolan.dev/static/js/453.a9ae78e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e119cb46.css",
+    "static/js/main.705961bc.js"
+  ]
+}
