@@ -1,0 +1,116 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    
+}
+*{
+  color:white;
+}
+.main{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    flex: 1;
+}
+
+.main li{
+    list-style: none;
+    padding: 5px;
+    text-align: center;
+}
+
+.nav-list{
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    background-color: black;
+    box-shadow: 0 2px 4px rgba(116, 116, 116, 0.5);
+}
+
+.nav-list > li{
+    padding: 15px;
+    color: white;
+
+}
+
+.nav-list > li:hover{
+  padding: 15px;
+  transition: 0.5s;
+  background-color: rgb(24, 24, 24);
+
+}
+.skill-container{
+  height: 50px;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 15px;
+  width: 100%;
+  text-align: center;
+}
+
+.skill-container > img{
+  height: 50px;
+}
+
+.social-container{
+    display: flex;
+    margin: auto;
+    margin-top: 85px;
+    justify-content: center;
+    width: 30%;
+    height: 50px;
+    /*box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);*/
+    
+}
+
+.social-container > a > img{
+  height: 50px;
+}
+
+.head{
+    margin-top: 5%;
+    text-align: center;
+    color: black;
+    font-size:xx-large;
+    position: relative;
+}
+.profile_name{
+  font-size: 22px;
+  font-weight: 500;
+}
+
+
+.head > span{
+    display: inline-block;
+    padding: 0px 5px 0px 5px;
+
+}
+
+.footer{
+  text-align: center;
+  margin-top: 1%;
+}
+  
+  @keyframes bounce {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  .bouncing-text {
+    animation: bounce 4s infinite;
+  }
+
+  .linkstyle{
+    text-decoration: none;
+  }
